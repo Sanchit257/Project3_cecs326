@@ -62,15 +62,6 @@ The program will:
 
 ---
 
-## File Structure
-
-.
-├── bankers.py
-├── README.md
-└── Report.pdf / Report.docx
-
----
-
 ## Notes
 - The program follows the Safety Algorithm and Resource-Request Algorithm
 - Output is printed directly to the console
